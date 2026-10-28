@@ -5,3 +5,7 @@ __pycache__/
 .matplotlib/
 *.pyc
 .DS_Store
+
+# Separate sibling learning repositories (see HANDOFF.md)
+/Grokking-Deep-Learning-deep-learning/
+/Practical-Statistics-for-Data-Scientists-deep-learning/

@@ -1,3 +1,5 @@
+> [Agent handoff](HANDOFF.md) — current direction, branch, decisions, verification and next work.
+
 # Introduction to Machine Learning with Python
 
 > Code reproduction and theoretical deep-dive based on *Introduction to Machine Learning with Python: A Guide for Data Scientists* by Andreas C. Müller and Sarah Guido (O'Reilly Media, 2016).
